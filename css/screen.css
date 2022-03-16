@@ -277,6 +277,9 @@ Components: Author
   .c-article__content {
     width: 75%;
   }
+}
+
+@media (min-width: 992px) {
   .c-author {
     flex-direction: column;
     align-items: start;
