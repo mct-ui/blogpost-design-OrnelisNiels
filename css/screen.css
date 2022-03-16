@@ -23,9 +23,8 @@ html {
   line-height: 1.5;
   /* font-family: 'Inter Web', 'Helvetica Neue', Helvetica, arial, sans-serif; */
   font-family: 'droid-serif', Georgia, serif;
-  color: #111;
-  padding: 48px 24px 24px;
   color: #5c6366;
+  padding: 48px 24px 24px;
 }
 
 body {
@@ -74,6 +73,7 @@ h1 {
   font-size: 36px;
   line-height: 40px;
   margin: 0 0 24px;
+  font-family: 'Playfair Display', serif;
 }
 
 h2 {
