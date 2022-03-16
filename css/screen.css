@@ -250,6 +250,12 @@ Components: Author
   padding: 0 24px;
 }
 
+.quote {
+  color: #00e6a1;
+  font-size: 23px;
+  padding: 24px;
+  background-color: #d6fdf1;
+}
 /* Medium devices (tablets, 768px and up) */
 
 @media (min-width: 768px) {
